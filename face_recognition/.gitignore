@@ -1,3 +1,4 @@
 data/train/**/*.jpg
 notebook/.ipynb_checkpoints/
+notebook/test_model.ipynb
 *.DS_Store
